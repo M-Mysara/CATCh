@@ -1,7 +1,7 @@
 #	CATCh
 
 CATCh: an ensemble classifier for chimera detection in 16S rRNA sequencing studies
-#       Mysara M., Saeys Y., Leys N., Raes J., Monsieurs P. 2014. CATCh: an ensemble classifier for chimera detection in 16S rRNA sequencing studies. Under review.
+####  Mysara, M., Saeys, Y., et al., 2015. CATCh, an ensemble classifier for chimera detection in 16S rRNA sequencing studies. Applied and environmental microbiology, 81(5), pp.1573–84.
 
 ## Installation Requirement
 Following programs need to be installed to run CATCh:
@@ -107,7 +107,7 @@ A step-by-step manual on how the CATCh classifier is built can be downloaded her
 ## Citing
 If you are going to use CATCh, please cite it with the included software (Mothur, WEKA, RDP MultiClassifier 1.1 and DECIPHER).
 
-      Mysara M., Saeys Y., Leys N., Raes J., Monsieurs P. 2014. CATCh: an ensemble classifier for chimera detection in 16S rRNA sequencing studies. Under review.
+     Mysara, M., Saeys, Y., et al., 2015. CATCh, an ensemble classifier for chimera detection in 16S rRNA sequencing studies. Applied and environmental microbiology, 81(5), pp.1573–84.
       Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M, Hollister EB, et al. (2009). Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities. Applied and environmental microbiology 75:7537–41.
       Hall M, National H, Frank E, Holmes G, Pfahringer B, Reutemann P, et al. (2009). The WEKA Data Mining Software: An Update. SIGKDD Explorations 11:10–18.
       Wang Q, Garrity GM, Tiedje JM, Cole Naive JR (2007), Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Applied and Environmental Microbiology 09/2007; 73(16):5261-7.
