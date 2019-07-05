@@ -3,7 +3,7 @@
 CATCh: an ensemble classifier for chimera detection in 16S rRNA sequencing studies
 ####  Mysara, M., Saeys, Y., et al., 2015. CATCh, an ensemble classifier for chimera detection in 16S rRNA sequencing studies. Applied and environmental microbiology, 81(5), pp.1573–84.
 
-# More information can be seen here: https://science.sckcen.be/en/Institutes/EHS/MCB/MIC/Bioinformatics/CATCh
+## More information can be seen here: https://science.sckcen.be/en/Institutes/EHS/MCB/MIC/Bioinformatics/CATCh
 
 ## Installation Requirement
 Following programs need to be installed to run CATCh:
